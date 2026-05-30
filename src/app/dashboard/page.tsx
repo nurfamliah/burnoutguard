@@ -295,7 +295,7 @@ export default function DashboardPage() {
         <div className="flex flex-wrap items-end justify-between gap-3">
           <div>
             <p className="text-sm text-muted-foreground">Good evening, Maya</p>
-            <h2 className="font-display text-3xl font-bold">Here's how this week feels.</h2>
+            <h2 className="font-display text-3xl font-bold">Ini kondisi kamu minggu ini.</h2>
           </div>
           <div className="rounded-full border border-border bg-surface px-4 py-1.5 text-xs font-medium text-muted-foreground">
             Updated 2 min ago
